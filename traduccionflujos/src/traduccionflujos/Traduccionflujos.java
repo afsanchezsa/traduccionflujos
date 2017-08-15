@@ -36,6 +36,7 @@ public class Traduccionflujos {
     
     public static int funcion(int entrada){
     int proceso=entrada*-1;
-    return proceso;
+    int salida=proceso;
+    return salida;
     }
 }
